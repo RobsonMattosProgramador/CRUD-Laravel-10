@@ -9,8 +9,8 @@
 
 
 #### - CRUD COM LARAVEL 10
- 
-<https://github.com/RobsonMattosProgramador/CRUD-Laravel-10/blob/main/img_git/crud.PNG">
+ <img src="https://github.com/RobsonMattosProgramador/CRUD-Laravel-10/blob/main/img_git/crud.PNG">
+
 
  
  
